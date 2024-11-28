@@ -1,175 +1,27 @@
-* {
+*{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-}
+ }
+
+
+
+
+
 body{
 
     background-color: rgb(221, 216, 216);
 }
 
+
+
+
+
 .grid-container{
 display: grid;
 grid-template-columns: auto;
-gap: 0;
-padding: 2px;
-}
-
-.grid-container > div {
-
-text-align: center;
-padding: 8px;
-
-}
-
-.oceanimg { 
-width: 900px;
-
-
-
-}
-
-.flagimg{
-width: 400px;
-margin-bottom: 50px;
+gap: 10px;
+padding: 10px;
 }
 
 
-
-
-h1 {
-    font-size: 5em;
-    text-align: center;
-    margin-bottom: 20px;
-}
-
-h1, h2, h3, h4 {
-    font-family: 'Montserrat', sans-serif;
-    color: #005f6b;
-}
-
-h3{
-font-size: 2em;
-}
-
-h4{
-    color: black;
-    font-size: 1.5em;
-    margin-top: 30px;
-
-
-}
-
-.sofia{
-
-    font-family: "Sofia", sans-serif;
-}
-
-.trirong{
-
-    font-family: "Trirong",serif ;
-}
-
-
-/*
-
-body {
-font-family: 'Roboto', sans-serif;
-line-height: 1.6;
-color: #333333;
-background-color: #f7f7f7;
-display: grid;
-grid-template-columns: 1fr minmax(300px, 960px) 1fr;
-gap: 20px;
-padding: 20px;
-}
-
-h1, h2, h3, h4 {
-    font-family: 'Montserrat', sans-serif;
-    color: #005f6b;
-}
-
-h1 {
-    font-size: 2.5em;
-    text-align: center;
-    margin-bottom: 0.5em;
-}
-
-h1 {
-    font-size: 2.5em;
-    text-align: center;
-    margin-bottom: 0.5em;
-}
-
-p {
-    max-width: 600px;
-    margin-bottom: 1em;
-    text-align: justify;
-}
-
-body > div {
-    grid-column: 2;
-}
-
-header,footer {
-    background-color: #333
-    color:#333 white;
-    padding: 1em;
-    text-align: center;
-}
-
-.container {
-    display: grid;
-    grid-template-columns: 1fr;
-    gap: 20px;
-}
-
-img {
-    width: 100%;
-    height: auto;
-    display: block;
-    border: 5px solid #333333;
-    border-radius: 5px;
-}
-
-a {
-    color: #008080
-    text-decoration: none;
-}
-
-a:visited {
-    color: #008080
-    text-decoration: none;
-}
-
-a:visited {
-    color: #006666
-}
-
-a:hover {
-    color: #00cccc;
-}
-
-section {
-    padding: 1em;
-    border: 2px solid #ccc;
-    border-radius: 5px;
-    background-color: #ffffff
-}
-
-body {
-    background-color: hsl(180,4%,95%);
-}
-
-h1, h2{
-    font-family: 'Roboto', Arial, sans-serif;
-}
-
-footer {
-    text-align: center;
-    padding: 1em;
-    background-color: #005f6b;
-    color: #ffffff;
-}
-
-*/
