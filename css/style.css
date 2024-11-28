@@ -21,6 +21,17 @@ body{
 
 
 
+.top-bar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%; 
+    background-color: white; /* White background */
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1); 
+    padding: 10px 20px; 
+
+}
+
 
 .grid-container{
 display: grid;
