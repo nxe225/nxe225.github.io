@@ -37,6 +37,7 @@ h1{
 
 
 .fa-font {
-    color: black;
-    font-size: 100 px;
+    color: rgb(6, 6, 6);
+    font-size: 300px;
+    text-align: center;
 }
