@@ -31,13 +31,9 @@ padding: 10px;
 
 
 h1{
-    font-size: 100 pt;
-    font-family: 'Betas Neu';
-}
-
-
-.fa-font {
     color: rgb(6, 6, 6);
     font-size: 300px;
     text-align: center;
 }
+
+
