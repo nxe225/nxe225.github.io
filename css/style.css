@@ -1,10 +1,12 @@
 .container {
     display : flex;
+    flex-direction: row;
+
 }
 
 
 .box-1{
-    height: 100px;
+    height: 300px;
     width: 600px;
     background-color: black;
 }
