@@ -4,15 +4,15 @@
 
 
 .box-1{
-    height: 200px;
-    width: 200px;
+    height: 300px;
+    width: 500px;
     background-color: black;
 }
 
 
 
 .box-2{
-    height: 500px;
+    height: 400px;
     width: 200 px;
     background-color: rgb(167, 224, 67);
 }
