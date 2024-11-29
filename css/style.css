@@ -1,36 +1,15 @@
-*{
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
- }
-
-
-
-
-body{
-        margin: 0;
-        padding: 0;
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        height: 100vh;
-        background-color: rgb(221, 216, 216);
+.box-1{
+    height: 200px;
+    width: 200px;
+    background-color: black;
 }
 
 
 
-.grid-container{
-display: grid;
-grid-template-columns: auto;
-gap: 10px;
-padding: 10px;
-}
-
-
-h1{
-    color: rgb(244, 242, 241);
-    font-size: 200px;
-    text-align: center;
+.box-2{
+    height: 200px;
+    width: 200 px;
+    background-color: antiquewhite;
 }
 
 
