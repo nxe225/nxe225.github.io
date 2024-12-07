@@ -223,7 +223,7 @@ fa-light fa-chevron-right{
 .box-4 img{
     width: 100%;           
     height: 100%;         
-    object-fit: cover;    
+    object-fit: contain;    
 }
 
 
@@ -254,7 +254,7 @@ margin-top: 9%;
 .box-5 img{
     width: 100%;           
     height: 100%;         
-    object-fit: cover;    
+    object-fit: contain;    
 }
 
 .portrait-2, .global-2{
