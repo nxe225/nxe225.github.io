@@ -207,7 +207,7 @@ fa-light fa-chevron-right{
 
 
 
-.box-4, .box-6{
+.box-4{
     position: fixed;
     height: 25%;
     width: 2%;
@@ -216,7 +216,28 @@ fa-light fa-chevron-right{
     background-color: blue;
     margin-right: 33%;
     margin-top: 9%;
+
 }
+
+
+.box-4 img {
+    width: 100%;           
+    height: 100%;         
+    object-fit: cover;    
+}
+
+
+.box-6{
+position: fixed;
+height: 25%;
+width: 2%;
+right: 0;
+padding: 10%;
+background-color: blue;
+margin-right: 33%;
+margin-top: 9%;
+}
+
 
 
 .box-5, .box-7{
@@ -230,6 +251,11 @@ fa-light fa-chevron-right{
     margin-top: 9%;
 }
 
+.box-5 img {
+    width: 100%;           
+    height: 100%;         
+    object-fit: cover;    
+}
 
 .portrait-2, .global-2{
 position: fixed;
