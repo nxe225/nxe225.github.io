@@ -420,3 +420,31 @@ margin-left: 104px;
 
 
 }
+
+.box-16 {
+    position: absolute;
+    height: 234px;
+    width: 506px;
+    background-color: blue;
+    margin-top: 385px;
+    margin-left: 100px;
+}
+
+
+.box-16 img{
+    display: block;
+    width: 100%;           
+    height: 100%;         
+    object-fit: cover;    
+}
+
+
+.box-17 {
+    position: absolute;
+    background-color: rgb(2, 1, 1);
+    width: 2800px;
+    height: 170px;
+    margin-top: 1325px;
+
+
+}
