@@ -239,6 +239,14 @@ margin-top: 9%;
 }
 
 
+.box-6 img{
+    display: block;
+    width: 100%;           
+    height: 100%;         
+    object-fit: cover;    
+}
+
+
 
 .box-5, .box-7{
     position: fixed;
@@ -256,6 +264,10 @@ margin-top: 9%;
     height: 100%;         
     object-fit: cover;    
 }
+
+
+
+
 
 
 .portrait-2, .global-2{
