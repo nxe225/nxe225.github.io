@@ -208,7 +208,7 @@ fa-light fa-chevron-right{
 
 
 .box-4{
-    position: fixed;
+    position: absolute;
     height: 490px;
     width: 300px;
     right: 0;
@@ -228,7 +228,7 @@ fa-light fa-chevron-right{
 
 
 .box-6{
-position: fixed;
+position: absolute;
 height: 490px;
 width: 305px;
 right: 0;
@@ -248,7 +248,7 @@ margin-top: 9%;
 
 
 .box-5{
-    position: fixed;
+    position: absolute;
     height: 490px;
     width: 300px;
     right: 0;
@@ -268,7 +268,7 @@ margin-top: 9%;
 
 
 .box-7{
-    position: fixed;
+    position: absolute;
     height: 490px;
     width: 305px;
     right: 0;
@@ -287,14 +287,14 @@ margin-top: 9%;
 
 
 .portrait-2, .global-2{
-position: fixed;
+position: absolute;
 margin-top: 8%;
 margin-left: 7%;
 font-size: 85px;
 }
 
 .photography-2, .photography-3{
-    position: fixed;
+    position: absolute;
     margin-top: 14%;
     margin-left: 7%;
     font-size: 85px;
@@ -321,3 +321,57 @@ margin-left: 104px;
     margin-top: 330px;
     margin-left: 104px;
     }  
+
+
+
+
+.box-10 {
+    position: absolute;
+    height: 234px;
+    width: 506px;
+    background-color: blue;
+    margin-top: 385px;
+    margin-left: 100px;
+}
+
+
+.box-10 img{
+    display: block;
+    width: 100%;           
+    height: 100%;         
+    object-fit: cover;    
+}
+
+.box-11 {
+    position: absolute;
+    height: 230px;
+    width: 506px;
+    background-color: blue;
+    margin-top: 675px;
+    margin-left: 100px;
+}
+
+
+.box-11 img{
+    display: block;
+    width: 100%;           
+    height: 100%;         
+    object-fit: cover;    
+}
+
+
+.box-12 {
+    position: absolute;
+    height: 230px;
+    width: 670px;
+    background-color: blue;
+    margin-top: 675px;
+    margin-left: 660px;
+}
+
+.box-12 img{
+    display: block;
+    width: 100%;           
+    height: 100%;         
+    object-fit: cover;    
+}
