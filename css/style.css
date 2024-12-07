@@ -344,7 +344,7 @@ margin-left: 104px;
 
 .box-11 {
     position: absolute;
-    height: 230px;
+    height: 240px;
     width: 506px;
     background-color: blue;
     margin-top: 675px;
@@ -362,7 +362,7 @@ margin-left: 104px;
 
 .box-12 {
     position: absolute;
-    height: 230px;
+    height: 240px;
     width: 670px;
     background-color: blue;
     margin-top: 675px;
@@ -374,4 +374,49 @@ margin-left: 104px;
     width: 100%;           
     height: 100%;         
     object-fit: cover;    
+}
+
+
+
+.box-13 {
+    position: absolute;
+    height: 240px;
+    width: 680px;
+    background-color: blue;
+    margin-top: 975px;
+    margin-left: 660px;
+}
+
+.box-13 img{
+    display: block;
+    width: 100%;           
+    height: 100%;         
+    object-fit: cover;    
+}
+
+.box-14 {
+    position: absolute;
+    height: 240px;
+    width: 506px;
+    background-color: blue;
+    margin-top: 975px;
+    margin-left: 100px;
+}
+
+.box-14 img{
+    display: block;
+    width: 100%;           
+    height: 100%;         
+    object-fit: cover;    
+}
+
+
+.box-15 {
+    position: absolute;
+    background-color: rgb(2, 1, 1);
+    width: 2800px;
+    height: 170px;
+    margin-top: 1325px;
+
+
 }
