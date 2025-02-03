@@ -191,14 +191,30 @@ body{
 
 
 .fourth-green-inner-box{
-    background-color: #252525;  
-    transform: scale(1); 
-    box-shadow: 0 1px 5px rgba(0, 0, 0, 0.1);    
+    display: flex;
+    margin-top: 38px;
+    background-color: rgb(243, 247, 244);
+    text-align: center;
+    padding: 7%;
+    justify-content: center; 
+    align-items: center;
+    margin-left: 5%;
+    margin-right: 5%;
+    transform: translateY(3px);
+
+
+    background-color: rgba(22, 22, 22, 0.3); 
+    color: white;
+    border: .5px solid rgba(0, 0, 0, 0.6); 
+    border-radius: 60px;
+ 
 }
 
-
-
-
+.fourth-green-inner-box:hover {
+    background-color: black
+    transform: scale(1); 
+    box-shadow: 0 1px 5px rgba(0, 0, 0, 0.1); 
+}
 
 .fa-linkedin {
     display: flex;
